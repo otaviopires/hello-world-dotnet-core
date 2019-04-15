@@ -1,0 +1,12 @@
+C:\Users\usuario\hello-world-dotnet-core-3.0\bin\Debug\netcoreapp3.0\hello-world-dotnet-core-3.0.exe
+C:\Users\usuario\hello-world-dotnet-core-3.0\bin\Debug\netcoreapp3.0\hello-world-dotnet-core-3.0.deps.json
+C:\Users\usuario\hello-world-dotnet-core-3.0\bin\Debug\netcoreapp3.0\hello-world-dotnet-core-3.0.runtimeconfig.json
+C:\Users\usuario\hello-world-dotnet-core-3.0\bin\Debug\netcoreapp3.0\hello-world-dotnet-core-3.0.runtimeconfig.dev.json
+C:\Users\usuario\hello-world-dotnet-core-3.0\bin\Debug\netcoreapp3.0\hello-world-dotnet-core-3.0.dll
+C:\Users\usuario\hello-world-dotnet-core-3.0\bin\Debug\netcoreapp3.0\hello-world-dotnet-core-3.0.pdb
+C:\Users\usuario\hello-world-dotnet-core-3.0\obj\Debug\netcoreapp3.0\hello-world-dotnet-core-3.0.csprojAssemblyReference.cache
+C:\Users\usuario\hello-world-dotnet-core-3.0\obj\Debug\netcoreapp3.0\hello-world-dotnet-core-3.0.csproj.CoreCompileInputs.cache
+C:\Users\usuario\hello-world-dotnet-core-3.0\obj\Debug\netcoreapp3.0\hello-world-dotnet-core-3.0.AssemblyInfoInputs.cache
+C:\Users\usuario\hello-world-dotnet-core-3.0\obj\Debug\netcoreapp3.0\hello-world-dotnet-core-3.0.AssemblyInfo.cs
+C:\Users\usuario\hello-world-dotnet-core-3.0\obj\Debug\netcoreapp3.0\hello-world-dotnet-core-3.0.dll
+C:\Users\usuario\hello-world-dotnet-core-3.0\obj\Debug\netcoreapp3.0\hello-world-dotnet-core-3.0.pdb

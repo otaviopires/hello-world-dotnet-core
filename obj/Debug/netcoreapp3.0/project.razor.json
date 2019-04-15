@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "c:\\Users\\usuario\\hello-world-dotnet-core-3.0\\hello-world-dotnet-core-3.0.csproj",
+  "TargetFramework": "netcoreapp3.0",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}
